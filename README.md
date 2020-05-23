@@ -1,6 +1,8 @@
-# Webpack Starter
+# Instagram Scraper
 
-Base template for react projects. Includes webpack, babel, and client / server architecture. 
+Sample react project for teaching you how to scrap instagram with puppeteer!
+
+Check out the youtube tutorial here: 
 
 ## Installation
 

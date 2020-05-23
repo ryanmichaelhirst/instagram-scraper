@@ -1,5 +1,5 @@
 {
-  "name": "webpack-starter",
+  "name": "instagram-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "client/src/index.js",
@@ -12,6 +12,7 @@
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "file-loader": "^5.1.0",
+    "puppeteer": "^3.1.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-router-dom": "^5.1.2"
